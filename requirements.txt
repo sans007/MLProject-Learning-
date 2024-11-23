@@ -11,4 +11,5 @@ dill
 Flask
 mlflow
 dagshub
+gunicorn
 #-e .
